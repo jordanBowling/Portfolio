@@ -1,4 +1,11 @@
 a {
-    color: darkslategray;
+    color: antiquewhite;
     text-decoration: none;
 }
+
+.col-md-3 {
+
+   text-align: center;
+   
+}
+
